@@ -1,16 +1,9 @@
 # <img src="https://github.com/user-attachments/assets/31e58932-16eb-441c-900c-739672b50cc5" width="32"> LeafClient
 A ___Minecraft: Java Edition client (no cheats)___.
-(and possibly supporting Bedrock Edition soon)
 
 # ⚠️ IMPORTANT
 
-**BEFORE USE OR MODIFICATION OF LEAF CLIENT, PLEASE READ OUR [LICENSE](https://github.com/LeafClientMC/LeafClient/blob/main/LICENSE.md). \
-You are subject to a DMCA takedown if you decide to modify Leaf Client and redistribute or use our code without permission.**
-
-# BETA RELEASED
-
-We've released BETA!
-PLEASE EXPECT BUGS! AND REPORT THEM IF FOUND USING THE FEEDBACK SYSTEM ON THE LAUNCHER.
+**We would appreciate if you like it**
 
 **Currently featuring 20+ client features:**
 - **🛡️ ArmorHUD**
@@ -52,18 +45,11 @@ PLEASE EXPECT BUGS! AND REPORT THEM IF FOUND USING THE FEEDBACK SYSTEM ON THE LA
 <img width="1746" height="933" alt="launcher-versions" src="https://github.com/user-attachments/assets/b2a91ec4-ac3f-4091-9b32-a5ce41fe256f" />
 <img width="616" height="380" alt="accounts-preview" src="https://github.com/user-attachments/assets/21b3feaa-5bc7-42e5-a5e8-57ef44150615" />
 
-
-## 🤔 Open Source?
-
-Yes, this is an **open source project**. Parts of the project that include sensitive information (for when we add Cosmetics, etc) will be left out of the source code for safety. The same applies for our in-game client with features. This may be the first open source professional launcher that also features an in-game client. I'm open to possible contributions as well.
-
 ## 🛠️ Contributors
 
-Just me. I'm a solo on this project, and I also had to [modify CmlLib's source code](https://github.com/voidZiAD/CmlLib-XboxAuthNet.AOTCompatible) in order to make it work within the launcher.
-\
-Unlike the previous versions of LeafClient (that are now deleted), the in-game features are fully coded by myself, with the help of intelligent problem-solving LLMs to speed up the process. Meaning, the only possible usage of other people's mods are either through yourself downloading them into the mods folder, or installing a mod through our mods page, which gives credit to the owner of the mod by default.
+Musa & Hashim, and I also had to [modify CmlLib's source code](https://github.com/voidZiAD/CmlLib-XboxAuthNet.AOTCompatible) in order to make it work within the launcher.
 
-## 💎 Indirect Contributors (APIs)
+## 💎 How We Made (APIs)
 
 [StarlightSkins](https://starlightskins.lunareclipse.studio) for the in-launcher skin rendering with emotes.\
 [Visage](https://vzge.me/) for the in-launcher substitute skin rendering.\
@@ -73,16 +59,12 @@ Unlike the previous versions of LeafClient (that are now deleted), the in-game f
 
 ## 🎯 Project Goal
 
-**IMPORTANT: WE'RE NOT FOR PROFIT.**
-\
-Majority of the features provided, will be of no cost. We're going to prioritize banner ads as we progress as a client, with no pop-up/in-stream ads. Just ads sitting on the launcher screen.
-
-I'm aiming to add everything that someone would usually expect within a professional client and launcher (e.g. Lunar/Badlion), but mostly for free. Monetization in this project would only be through launcher banner ads, cosmetics, and possibly a subscription in the future. There will be no in-game paid features except a few Cosmetics, the rest of the features will be free. I'm also aiming to make it more customizable and add more creative features that probably aren't in the popular clients we use day-to-day. I'm a person who appreciates feedback, and I'm all for listening to what the people want. Feel free to suggest.
+**Win the school project competition**
 
 ## 🗃️ Project Status
 
-This project is still under development, and isn't accessible by the public. Once it is, it will be the first revamped Leaf Client Beta version.
+Ready!, but not so good.
 
 ## 🗨️ Wanna contribute?
 
-Join our [discord server](https://discord.gg/4nQnTXjvJu)
+Ask Sir Bahlour!
